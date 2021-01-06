@@ -2,5 +2,7 @@
   items:
     - name: Accueil
       link: /
+    - name: Appel à idées
+      link: /appels/
     - name: À propos
       link: /a-propos/

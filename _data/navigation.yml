@@ -1,2 +1,8 @@
+- name: Appels à idées
+  link: /appels/
+  dropdown:
+    - name: Appel 1
+      link: /appels/appel-1/
 - name: À propos
   link: /a-propos/
+
