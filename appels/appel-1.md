@@ -26,4 +26,6 @@ l'adresse suivante : [https://ulaval-rs.github.io/docs/appel-a-idees-1.pdf](http
 Les personnes intéressées peuvent soumettre leurs idées de projet en
 remplissant le formulaire à l'adresse suivante : [https://bit.ly/ul-idee-dev-logiciels](https://bit.ly/ul-idee-dev-logiciels)
 
+Pour toute question, contactez-nous à [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
+
 ---
