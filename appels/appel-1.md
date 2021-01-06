@@ -1,14 +1,12 @@
 ---
 title: Appel à idées 1
-layout: page
+date: 2021-01-06
+layout: tile
 hero_height: is-small
 show_sidebar: false
 menubar: menu
 hide_footer: true
 ---
-
-
-# Appel à idées 1
 
 Dans le cadre du programme Logiciels de recherche de CANARIE,
 l'Université Laval a obtenu un financement pour concevoir et développer
@@ -27,5 +25,3 @@ Les personnes intéressées peuvent soumettre leurs idées de projet en
 remplissant le formulaire à l'adresse suivante : [https://bit.ly/ul-idee-dev-logiciels](https://bit.ly/ul-idee-dev-logiciels)
 
 Pour toute question, contactez-nous à [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
-
----
