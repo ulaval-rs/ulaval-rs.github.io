@@ -20,7 +20,7 @@ l'Université afin d'initier la mise place du service.
 Tout membre de la communauté universitaire qui fait un travail en lien
 avec la recherche peut proposer une idée de projet.
 Un document d'information à propos de l'appel à idées se trouve à
-l'adresse suivante : [https://ulaval-rs/docs/appel-a-idees-1.pdf](https://ulaval-rs/docs/appel-a-idees-1.pdf)
+l'adresse suivante : [https://ulaval-rs.github.io/docs/appel-a-idees-1.pdf](https://ulaval-rs.github.io/docs/appel-a-idees-1.pdf)
 
 
 Les personnes intéressées peuvent soumettre leurs idées de projet en
