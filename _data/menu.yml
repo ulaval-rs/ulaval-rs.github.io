@@ -1,0 +1,6 @@
+- label: Menu
+  items:
+    - name: Accueil
+      link: /
+    - name: À propos
+      link: /a-propos/
