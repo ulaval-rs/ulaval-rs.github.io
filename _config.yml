@@ -17,8 +17,7 @@ title: Équipe de soutien au développement de logiciels de recherche
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ce site contient de l'information relative à l'Équipe de soutien au
-  développement de logiciels de recherche de la Direction des technologies de l'information de
-  l'Université Laval.
+  développement de logiciels de recherche de l'Université Laval.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ulaval-rs
