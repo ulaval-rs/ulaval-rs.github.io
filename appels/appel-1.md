@@ -143,29 +143,50 @@ L'évaluation des propositions sera effectuée par le comité consultatif
 de l'équipe de soutien au développement de logiciels de recherche selon
 les critères suivants:
 
+1. Le projet est présenté de façon claire et convaincante
+    - 0 pt - Non
+    - 10 pts - Partiellement
+    - 20 pts - Complètement
 
-|----------------------------------|----------------------------------|
-| Critère d'évaluation             | Pondération                      |
-|==================================|==================================|
-| 1. Le projet est présenté de façon claire et convaincante   | {::nomarkdown}<ul><li>0 pt - Non</li><li>10 pts - Partiellement</li><li>20 pts - Complètement</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| Le projet de développement logiciel peut être livré pour le 1er juin 2021 | {::nomarkdown}<ul><li>0 pt - Non</li><li>1 pt - Oui, moyennant certaines modifications</li><li>5 pt - Oui</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| L'expertise technique requise pour la réalisation du projet est disponible | {::nomarkdown}<ul><li>0 pt - Non</li><li>1pt - Oui, mais il faut impliquer des ressources externes à l'équipe de soutien</li><li>5 pts - Oui, l'équipe a toutes les compétences requises</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| La proposition démontre que le groupe ou le responsable a de l'expérience avec le processus de développement de logiciels de | {::nomarkdown}<ul><li>0 pt - Non</li><li>1 pt - Oui, le groupe a déjà travaillé avec des développeurs dans un cadre similaire</li><li>5 pts - Oui, le groupe a publié ses propres logiciels de recherche</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| Le projet vise la réutilisation d'un logiciel, d'un service ou d'une plateforme existante qui est open-source ? Par exemple, les services et plateformes listés sur science.canarie.ca | {::nomarkdown}<ul><li>0 pt - Non, il s'agit d'un logiciel propriétaire accepte que le code source du projet soit rendu disponible publiquement</li><li>1 pt - Non, mais le responsable</li><li>5 pts - Oui</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| Le logiciel réalisé sera réutilisable par d'autres groupes de recherche | {::nomarkdown}<ul><li>0 pt - Non</li><li>1 pt - Un autre groupe de recherche UL</li><li>5 pt - Plusieurs groupes, dont au moins un externe à l'UL</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| Le logiciel réalisé sera utilisé par plusieurs domaines de recherche | {::nomarkdown}<ul><li>0 pt - Non, un seul domaine</li><li>1 pt - Oui, un autre domaine</li><li>5 pt - Oui, deux autres domaines ou plus</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| Le développement du logiciel peut se faire en collaboration avec un groupe externe à l'UL |   {::nomarkdown}<ul><li>0 pt - Non</li><li>1 pt - Oui</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-| La proposition démontre que le groupe est intéressé à s'impliquer dans le projet | {::nomarkdown}<ul><li>0 pt - Non</li><li>1 pt - Oui, disponibilités pour des rencontres de suivi</li><li>5 pts - Oui, prêt à tester sur une base régulière</li><li>10 pts - Oui, le groupe compte s'impliquer dans le développement logiciel du projet</li></ul>{:/} |
-|----------------------------------|----------------------------------|
-{: .tablelines}
+2. Le projet de développement logiciel peut être livré pour le 1er juin 2021
+    - 0 pt - Non
+    - 1 pt - Oui, moyennant certaines modifications
+    - 5 pts - Oui
+
+3. L'expertise technique requise pour la réalisation du projet est disponible
+    - 0 pt - Non
+    - 1pt - Oui, mais il faut impliquer des ressources externes à l'équipe de soutien
+    - 5 pts - Oui, l'équipe a toutes les compétences requises
+
+4. La proposition démontre que le groupe ou le responsable a de l'expérience avec le processus de développement de logiciels de recherche
+    - 0 pt - Non
+    - 1 pt - Oui, le groupe a déjà travaillé avec des développeurs dans un cadre similaire
+    - 5 pts - Oui, le groupe a publié ses propres logiciels de recherche
+
+5. Le projet vise la réutilisation d'un logiciel, d'un service ou d'une plateforme existante qui est open-source ? Par exemple, les services et plateformes listés sur science.canarie.ca
+    - 0 pt - Non, il s'agit d'un logiciel propriétaire accepte que le code source du projet soit rendu disponible publiquement
+    - 1 pt - Non, mais le responsable
+    - 5 pts - Oui
+
+6. Le logiciel réalisé sera réutilisable par d'autres groupes de recherche 
+    - 0 pt - Non
+    - 1 pt - Un autre groupe de recherche UL
+    - 5 pts - Plusieurs groupes, dont au moins un externe à l'UL
+
+7. Le logiciel réalisé sera utilisé par plusieurs domaines de recherche
+    - 0 pt - Non, un seul domaine
+    - 1 pt - Oui, un autre domaine
+    - 5 pt - Oui, deux autres domaines ou plus
+
+8. Le développement du logiciel peut se faire en collaboration avec un groupe externe à l'UL
+    - 0 pt - Non
+    - 1 pt - Oui
+
+9. La proposition démontre que le groupe est intéressé à s'impliquer dans le projet
+    - 0 pt - Non
+    - 1 pt - Oui, disponibilités pour des rencontres de suivi
+    - 5 pts - Oui, prêt à tester sur une base régulière
+    - 10 pts - Oui, le groupe compte s'impliquer dans le développement logiciel du projet
 
 ---
 
