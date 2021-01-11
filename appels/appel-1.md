@@ -4,7 +4,6 @@ date: 2021-01-06
 layout: news
 hero_height: is-small
 show_sidebar: false
-menubar: menu
 hide_footer: true
 ---
 
