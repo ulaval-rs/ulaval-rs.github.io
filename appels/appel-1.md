@@ -4,7 +4,6 @@ date: 2021-01-06
 layout: news
 hero_height: is-small
 show_sidebar: false
-hide_footer: true
 ---
 
 Appel à idées 1 -- Soutien au développement de logiciels de recherche
@@ -187,6 +186,5 @@ les critères suivants:
     - 5 pts - Oui, prêt à tester sur une base régulière
     - 10 pts - Oui, le groupe compte s'impliquer dans le développement logiciel du projet
 
----
 
 Pour toute question, contactez-nous à [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)

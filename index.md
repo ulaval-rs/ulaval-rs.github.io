@@ -3,7 +3,6 @@ title: Accueil
 layout: page
 hero_height: is-small
 show_sidebar: false
-hide_footer: false
 ---
 
 # Projets en cours
