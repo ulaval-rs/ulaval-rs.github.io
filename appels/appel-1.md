@@ -9,16 +9,16 @@ Appel à idées 1 -- Soutien au développement de logiciels de recherche
 =====================================================================
 
 Dans le cadre du programme Logiciels de recherche de CANARIE,
-l\'Université Laval a obtenu un financement de 600,000\$ pour créer un
+l'Université Laval a obtenu un financement de 600,000$ pour créer un
 service de soutien au développement de logiciels de recherche. Ce
-financement s\'étale du 1 juin 2020 au 31 mars 2023.
+financement s'étale du 1 juin 2020 au 31 mars 2023.
 
 L'objectif du service est de concevoir et développer des outils
-logiciels permettant d\'accélérer les activités de recherche de
-l\'Université Laval. Ces outils logiciels devront pouvoir profiter à
-l\'ensemble de la communauté de la recherche au Canada.
+logiciels permettant d'accélérer les activités de recherche de
+l'Université Laval. Ces outils logiciels devront pouvoir profiter à
+l'ensemble de la communauté de la recherche au Canada.
 
-Afin d\'initier la mise en place du service, l'équipe fait appel à la
+Afin d'initier la mise en place du service, l'équipe fait appel à la
 communauté de recherche de l'Université afin de recueillir des idées de
 projets de développement de logiciels de recherche.
 
@@ -71,13 +71,13 @@ vise à tenir un second appel à partir du 1er mai 2021 et dont le travail
 débuterait le 1er juillet 2021.
 
 Les personnes intéressées peuvent soumettre un projet en remplissant un
-court formulaire. Vous pouvez accéder au formulaire à l\'adresse
-suivante: [https://bit.ly/ul-idee-dev-logiciels](https://bit.ly/ul-idee-dev-logiciels).
+court formulaire. Vous pouvez accéder au formulaire à l'adresse
+suivante: [https://tinyurl.com/ulaval-rs-appel-1](https://tinyurl.com/ulaval-rs-appel-1).
 
 Nous encourageons tous les postulants à prendre contact avec l'équipe
 préalablement à la soumission d'une idée de projet ou pour toute
-question concernant l'appel à idées. Vous pouvez nous joindre à :\
-logiciels-recherche-appel1\@ulaval.ca
+question concernant l'appel à idées. Vous pouvez nous joindre à :
+[logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
 
 La date limite pour soumettre une idée de projet est le 1er février 2021
 à 17:00 (HNE).
@@ -95,43 +95,43 @@ Le formulaire est composé des questions suivantes:
     d.  Nom du groupe de recherche / laboratoire / institut / organisme
         / centre
 
-2.  Consentez-vous à ce que le projet et sa réalisation fassent l\'objet
+2.  Consentez-vous à ce que le projet et sa réalisation fassent l'objet
     de présentations orales ou écrites ?
 
 3.  Consentez-vous à que le code source développé dans le cadre du
     projet soit rendu disponible publiquement sur
-    https://www.github.com/ulaval ?
+    [https://www.github.com/ulaval-rs](https://www.github.com/ulaval-rs) ?
 
 4.  Consentez-vous à ce que le projet soit répertorié sur le Portail des
-    logiciels de recherche de CANARIE - https://science.canarie.ca/ ?
+    logiciels de recherche de CANARIE - [https://science.canarie.ca/](https://science.canarie.ca/) ?
 
 5.  Description du besoin ou du problème requérant un développement
     logiciel
 
-6.  Est-ce qu\'il existe à votre connaissance un logiciel répondant
+6.  Est-ce qu'il existe à votre connaissance un logiciel répondant
     partiellement à votre besoin ou problème qui pourrait être modifié
-    ou amélioré par l\'équipe afin de répondre au besoin?
+    ou amélioré par l'équipe afin de répondre au besoin?
 
 7.  Description de la solution logicielle que vous envisagez pour ce
-    problème. Assurez-vous d\'indiquer le nom du logiciel si vous avez
+    problème. Assurez-vous d'indiquer le nom du logiciel si vous avez
     répondu oui à la question précédente.
 
 8.  Expliquez comment vous comptez contribuer à la réalisation de ce
-    projet. Par exemple: contribution d\'un professionnel pouvait faire
+    projet. Par exemple: contribution d'un professionnel pouvait faire
     du développement, disponibilités pour des rencontres de suivis,
     intérêt pour des versions préliminaires du logiciel, etc.
 
 9.  Description des retombées attendues sur votre recherche et celle des
     utilisateurs de la solution
 
-10. Identifiez d\'autres groupes de recherche de l\'Université Laval, au
-    Canada ou à l\'international qui bénéficieraient de la réalisation
+10. Identifiez d'autres groupes de recherche de l'Université Laval, au
+    Canada ou à l'international qui bénéficieraient de la réalisation
     de ce projet logiciel
 
 11. À partir de quelle date approximativement, le produit logiciel
     développé serait-il utilisé par votre équipe de recherche?
 
-12. Comment avez-vous appris l\'existence de l\'appel à idées de projet?
+12. Comment avez-vous appris l'existence de l'appel à idées de projet?
 
 Critères d'évaluations
 ----------------------
