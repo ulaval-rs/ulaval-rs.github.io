@@ -28,5 +28,3 @@ markdown: kramdown
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
-
-theme: jekyll-theme-cayman
