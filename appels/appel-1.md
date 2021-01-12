@@ -3,6 +3,7 @@ title: Appel à idées 1
 layout: page
 hero_height: is-small
 show_sidebar: false
+toc: true
 ---
 
 Appel à idées 1 -- Soutien au développement de logiciels de recherche
@@ -145,7 +146,7 @@ les critères suivants:
     - 10 pts - Partiellement
     - 20 pts - Complètement
 
-2. Le projet de développement logiciel peut être livré pour le 1er juin 2021
+2. Le projet de développement logiciel peut être livré pour le 15 juin 2021
     - 0 pt - Non
     - 1 pt - Oui, moyennant certaines modifications
     - 5 pts - Oui
@@ -187,6 +188,14 @@ les critères suivants:
 
 
 Pour toute question, contactez-nous à [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
+
+
+## Dates importantes
+
+- Date limite pour soumettre une idée de projet : 1er février 2021 à 17:00 (HNE)
+- Date prévue pour l'appel à idées 2 : 1er mai 2021
+- Date de livraison au plus tard pour les propositions retenues de l'appel à idées 1 : 15 juin 2021
+
 
 ---
 
