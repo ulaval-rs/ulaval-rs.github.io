@@ -42,3 +42,17 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
         <p>Conseiller technologique - VALERIA</p>
     </figure>
 </div>
+
+<br>
+<br>
+<br>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid=gap: 40px">
+    <figure>
+        <br>
+        <img src="{{ BASE_PATH }}/assets/images/logo-ulaval.png" style="height: 150px">
+    </figure>
+    <figure>
+        <img src="{{ BASE_PATH }}/assets/images/logo-canarie.png" style="height: 150px">  
+    </figure>
+</div>

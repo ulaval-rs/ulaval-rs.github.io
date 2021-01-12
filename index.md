@@ -51,3 +51,17 @@ référez-vous à [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github
         <p>Conseiller technologique - VALERIA</p>
     </figure>
 </div>
+
+<br>
+<br>
+<br>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid=gap: 40px">
+    <figure>
+        <br>
+        <img src="{{ BASE_PATH }}/assets/images/logo-ulaval.png" style="height: 150px">
+    </figure>
+    <figure>
+        <img src="{{ BASE_PATH }}/assets/images/logo-canarie.png" style="height: 150px">  
+    </figure>
+</div>
