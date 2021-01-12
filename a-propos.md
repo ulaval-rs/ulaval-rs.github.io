@@ -1,5 +1,5 @@
 ---
-title: Accueil
+title: À propos
 layout: page
 hero_height: is-small
 show_sidebar: false
@@ -11,17 +11,8 @@ logiciels de recherche. La mission de l'équipe est de concevoir et développer
 des outils logiciels permettant d'accélérer les activités de recherche de l'Université
 ainsi que de l'ensemble de la communauté de recherche au Canada.
 
-<br>
-
-Nous sommes actuellement en processus d'appel à idées.
-Si vous avez une idée pour un outil logiciel dédié à la recherche,
-référez-vous à [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github.io/appels?).
-
-
-<br>
-<br>
-
 ## L'équipe
+
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid=gap: 40px">
     <figure>

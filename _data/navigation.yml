@@ -4,5 +4,5 @@
     - name: Appel 1
       link: /appels/appel-1?
 - name: À propos
-  link: /#a-propos
+  link: /a-propos/
 
