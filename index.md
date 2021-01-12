@@ -24,4 +24,34 @@ logiciels de recherche. La mission de l'équipe est de concevoir et développer
 des outils logiciels permettant d'accélérer les activités de recherche de l'Université
 ainsi que de l'ensemble de la communauté de recherche au Canada.
 
+## L'équipe
 
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid=gap: 40px">
+    <figure>
+        <br>
+        <img src="{{ BASE_PATH }}/assets/images/florent-parent.png" style="height: 250px">
+        <h5>Florent Parent</h5>
+        <p>Responsable administratif</p>
+    </figure>
+    <figure>
+        <img src="{{ BASE_PATH }}/assets/images/philippe-despres.png" style="height: 250px">  
+        <h5>Philippe Després</h5>
+        <p>Chercheur pivot</p>
+    </figure>
+    <figure>
+        <img src="{{ BASE_PATH }}/assets/images/felix-antoine-fortin.png" style="height: 250px">  
+        <h5>Félix-Antoine Fortin</h5>
+        <p>Chef d'équipe de développement</p>
+    </figure>
+    <figure>
+        <img src="{{ BASE_PATH }}/assets/images/bruno-lavoie.png" style="height: 250px">  
+        <h5>Bruno Lavoie</h5>
+        <p>Conseiller technologique - VALERIA</p>
+    </figure>
+    <figure>
+        <img src="{{ BASE_PATH }}/assets/images/gabriel-couture.png" style="height: 250px">  
+        <h5>Gabriel Couture</h5>
+        <p>Analyste de l'informatique</p>
+    </figure>
+</div>
