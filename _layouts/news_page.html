@@ -1,20 +1,23 @@
 ---
-layout: page
+layout: default
 ---
-{{ content }}
+
+<div class="content">
+    {{ content }}
+</div>
 
 {% for news in site.data.news %}
-     <div class="card">
-          <div class="card-content" style="margin-bottom: 2em">
-              <div style="float: left">
-                  <h5>{{ news.name }}</h5>
-                  <p>Publié le {{ news.date }}</p>
-              </div>
-              <div style="float: right; margin-top: 1em">
+    <div class="card">
+        <div class="card-content" style="margin-bottom: 2em">
+            <div style="float: left">
+                <h5>{{ news.name }}</h5>
+                <p>Publié le {{ news.date }}</p>
+            </div>
+            <div style="float: right; margin-top: 1em">
                 <a href="{{ news.link }}" class="button">Lien</a>
-              </div>
-              <br>
-          </div>
-     </div>
+            </div>
+            <br>
+        </div>
+    </div></a>
     <br>
 {% endfor %}
