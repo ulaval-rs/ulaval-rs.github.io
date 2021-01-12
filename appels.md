@@ -15,7 +15,7 @@ show_sidebar: false
             <p>Publié le 2021-01-12</p>
         </div>
         <div style="float: right; margin-top: 1em">
-            <a href="/appels/appel-1" class="button">Lien</a>
+            <a href="/appels/appel-1?" class="button">Lien</a>
         </div>
         <br>
     </div>
