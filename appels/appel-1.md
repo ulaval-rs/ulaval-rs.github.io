@@ -1,7 +1,6 @@
 ---
 title: Appel à idées 1
-date: 2021-01-06
-layout: news
+layout: page
 hero_height: is-small
 show_sidebar: false
 ---
@@ -188,3 +187,7 @@ les critères suivants:
 
 
 Pour toute question, contactez-nous à [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
+
+---
+
+Publié le 12-01-2021
