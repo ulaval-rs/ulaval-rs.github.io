@@ -80,6 +80,11 @@ préalablement à la soumission d'une idée de projet ou pour toute
 question concernant l'appel à idées. Vous pouvez nous joindre à :
 [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
 
+Une rencontre d'une heure peut être céduler afin d'évaluer vos besoins et comment l'équipe pourra contribuer à votre projet.
+Pour planifier un rendez-vous, sélectionnez une plage horaire dans le calendrier suivant : 
+[https://calendly.com/ulaval-dev-logiciels/rencontre-appel-a-idees-1?month=2021-01](https://calendly.com/ulaval-dev-logiciels/rencontre-appel-a-idees-1?month=2021-01)
+
+
 La date limite pour soumettre une idée de projet est le 1er février 2021
 à 17:00 (HNE).
 
