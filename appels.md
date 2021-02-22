@@ -13,7 +13,7 @@ show_sidebar: false
         <div style="float: left">
             <a href="/appels/appel-1?"><h5>Appel à idées 1</h5></a>
             <p>
-                <b>Status : en cours<br/> Date limite : 1er février 2021, 17:00 (HNE)</b>
+                <b>Statut : terminé<br/> Date limite : 1er février 2021, 17:00 (HNE)</b>
             </p>
             <p>Publié le 2021-01-12</p>
         </div>
