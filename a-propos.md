@@ -13,8 +13,7 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
 
 ## L'équipe
 
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid=gap: 40px">
+<div class="ulaval-cards">
     <figure>
         <br>
         <img src="{{ BASE_PATH }}/assets/images/florent-parent.png" style="height: 200px">
@@ -34,7 +33,7 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
     <figure>
         <img src="{{ BASE_PATH }}/assets/images/gabriel-couture.png" style="height: 200px">  
         <h5>Gabriel Couture</h5>
-        <p>Développeur logiciel scientifique</p>
+        <p>Développeur de logiciels scientifiques</p>
     </figure>
     <figure>
         <img src="{{ BASE_PATH }}/assets/images/bruno-lavoie.png" style="height: 200px">  
@@ -47,7 +46,7 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
 <br>
 <br>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid=gap: 40px">
+<div class="ulaval-cards">
     <figure>
         <br>
         <img src="{{ BASE_PATH }}/assets/images/logo-ulaval.png" style="height: 150px">
@@ -56,3 +55,5 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
         <img src="{{ BASE_PATH }}/assets/images/logo-canarie.png" style="height: 150px">  
     </figure>
 </div>
+
+

@@ -13,17 +13,45 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
 
 <br>
 
-Nous sommes actuellement en processus d'appel à idées.
-Si vous avez une idée pour un outil logiciel dédié à la recherche,
-référez-vous à [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github.io/appels?).
+Nous travaillons actuellement sur les projets acceptés de l'appel à idées 1.
+L'appel à idées 2 sera lancé le 15 mai 2021. 
+Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github.io/appels?).
 
+## Projets
+
+<div class="ulaval-cards">
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/"><h5>PyHOOPLA</h5></a>
+        PyHOOPLA est une implémentation en Python de la librairie HOOPLA, qui permet de simuler des innondations.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/ulaval-rs/"><h5>Crowd Science Framework</h5></a>
+      Un Framwork Web, basé sur le populaire framework Web Django, qui permet de rapidement concevoir un site web dédié à un projet de science citoyenne.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/ulaval-rs/"><h5>MACBETH2GIS</h5></a>
+      Un outil permettant de transformer des données résultantes du logiciel d'optimisation M-MACBETH afin qu'elles soient chargeables dans un système d'information géographique (GIS).
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/ulaval-rs/"><h5>SpectroMiner</h5></a>
+      Un outil facilitant l'interprétation des données résultantes d'une analyse faite par un spectromètre de masse.
+    </div>
+  </div>
+</div>
 
 <br>
 <br>
 
 ## L'équipe
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid=gap: 40px">
+<div class="ulaval-cards">
     <figure>
         <br>
         <img src="{{ BASE_PATH }}/assets/images/florent-parent.png" style="height: 200px">
@@ -43,7 +71,7 @@ référez-vous à [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github
     <figure>
         <img src="{{ BASE_PATH }}/assets/images/gabriel-couture.png" style="height: 200px">  
         <h5>Gabriel Couture</h5>
-        <p>Développeur logiciel scientifique</p>
+        <p>Développeur de logiciels scientifiques</p>
     </figure>
     <figure>
         <img src="{{ BASE_PATH }}/assets/images/bruno-lavoie.png" style="height: 200px">  
@@ -56,7 +84,7 @@ référez-vous à [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github
 <br>
 <br>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid=gap: 40px">
+<div class="ulaval-cards">
     <figure>
         <br>
         <img src="{{ BASE_PATH }}/assets/images/logo-ulaval.png" style="height: 150px">
