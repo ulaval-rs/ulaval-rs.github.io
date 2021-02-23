@@ -23,7 +23,7 @@ Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ul
   <div class="card">
     <div class="card-content">
         <a href="https://github.com/ulaval-rs/"><h5>PyHOOPLA</h5></a>
-        PyHOOPLA est une implémentation en Python de la librairie HOOPLA, qui permet de simuler des innondations.
+        PyHOOPLA est une implémentation en Python de la librairie HOOPLA, qui permet de simuler des inondations.
     </div>
   </div>
   <div class="card">
@@ -41,7 +41,7 @@ Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ul
   <div class="card">
     <div class="card-content">
       <a href="https://github.com/ulaval-rs/"><h5>SpectroMiner</h5></a>
-      Un outil facilitant l'interprétation des données résultantes d'une analyse faite par un spectromètre de masse.
+      Un outil facilitant l'interprétation des données résultantes d'analyses faites par un spectromètre de masse.
     </div>
   </div>
 </div>
