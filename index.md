@@ -22,8 +22,8 @@ Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ul
 <div class="ulaval-cards">
   <div class="card">
     <div class="card-content">
-        <a href="https://github.com/ulaval-rs/"><h5>PyHOOPLA</h5></a>
-        PyHOOPLA est une implémentation en Python de la librairie HOOPLA, qui permet de simuler des inondations.
+        <a href="https://github.com/ulaval-rs/"><h5>HOOPLAPy</h5></a>
+        HOOPLAPy est une implémentation en Python de la librairie HOOPLA, qui permet de simuler des inondations.
     </div>
   </div>
   <div class="card">
