@@ -5,7 +5,4 @@ hero_height: is-small
 show_sidebar: false
 ---
 
-Nous ne prenons actuellement pas de rendez-vous concernant les appels à idées. 
-
-
-Vous pouvez tout de même nous contacter à [dev-logiciels-recherche@ulaval.ca](mailto:dev-logiciels-recherche@ulaval.ca) afin de nous consulter.
+Si vous avez des questions, concernant le prochain appel à idées ou si votre projet cadre dans les services que nous offrons par exemple, vous pouvez nous contacter à l'adresse suivante  [dev-logiciels-recherche@ulaval.ca](mailto:dev-logiciels-recherche@ulaval.ca).
