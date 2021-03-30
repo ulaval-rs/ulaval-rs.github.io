@@ -74,6 +74,11 @@ Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ul
         <p>Développeur de logiciels scientifiques</p>
     </figure>
     <figure>
+        <img src="{{ BASE_PATH }}/assets/images/olivier-chouinard-banville.jpg" style="height: 200px">  
+        <h5>Olivier Chouinard-Banville</h5>
+        <p>Développeur de logiciels scientifiques</p>
+    </figure>
+    <figure>
         <img src="{{ BASE_PATH }}/assets/images/bruno-lavoie.png" style="height: 200px">  
         <h5>Bruno Lavoie</h5>
         <p>Conseiller technologique - VALERIA</p>
