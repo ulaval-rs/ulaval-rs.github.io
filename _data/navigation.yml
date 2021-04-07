@@ -6,6 +6,8 @@
 
 - name: Rendez-vous
   link: /rendez-vous?
+- name: Catalogue de logiciels
+  link: /catalogue?
 - name: FAQ
   link: /faq?
 - name: À propos

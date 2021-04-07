@@ -34,7 +34,7 @@ Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ul
   </div>
   <div class="card">
     <div class="card-content">
-      <a href="https://github.com/ulaval-rs/"><h5>MACBETH2GIS</h5></a>
+      <a href="https://github.com/ulaval-rs/"><h5>Othello</h5></a>
       Un outil permettant de transformer des données résultantes du logiciel d'optimisation M-MACBETH afin qu'elles soient chargeables dans un système d'information géographique (GIS).
     </div>
   </div>
