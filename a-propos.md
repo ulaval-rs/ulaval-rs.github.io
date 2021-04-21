@@ -51,6 +51,8 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
 <br>
 <br>
 
+## Partenaires
+
 <div class="ulaval-cards">
     <figure>
         <br>

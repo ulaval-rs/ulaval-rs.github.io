@@ -89,6 +89,8 @@ Le lien correspondant sera alors disponible à l'adresse suivante : [https://ula
 <br>
 <br>
 
+## Partenaires
+
 <div class="ulaval-cards">
     <figure>
         <br>
