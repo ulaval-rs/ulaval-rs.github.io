@@ -22,7 +22,7 @@ show_sidebar: false
     {: style="margin-top: 0px; margin-bottom: 10px"}
 
 1. À quel endroit est-il possible de vous contacter?
-    - À l'adresse suivante : [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
+    - À l'adresse suivante : [dev-logiciels-recherche@ulaval.ca](dev-logiciels-recherche@ulaval.ca).
     {: style="margin-top: 0px; margin-bottom: 10px"}
 
 1. Est-il recommandé de céduler un rendez-vous avec l'Équipe de développement de logiciels de recherche?
@@ -30,6 +30,6 @@ show_sidebar: false
     {: style="margin-top: 0px; margin-bottom: 10px"}
 
 1. Comment pouvons-nous prendre rendez-vous avec l'Équipe de développement de logiciels de recherche? 
-    - Sélectionnez une plage horaire dans le calendrier à l'adresse suivante : [https://calendly.com/ulaval-dev-logiciels/rencontre-appel-a-idees-1?month=2021-01](https://calendly.com/ulaval-dev-logiciels/rencontre-appel-a-idees-1?month=2021-01).
+    - Lors d'un appel à idées, un lien sera fourni afin de planifier une rencontre avec l'équipe. En dehors d'un appel à idées, il est toujours possible de nous contacter à l'adresse suivante : [dev-logiciels-recherche@ulaval.ca](dev-logiciels-recherche@ulaval.ca).
     {: style="margin-top: 0px; margin-bottom: 10px"}
 {: style="margin-top: 0px; margin-bottom: 10px"}

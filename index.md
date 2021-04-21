@@ -15,7 +15,7 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
 
 Nous travaillons actuellement sur les projets acceptés de l'appel à idées 1.
 L'appel à idées 2 sera lancé le 15 mai 2021. 
-Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github.io/appels?).
+Le lien correspondant sera alors disponible à l'adresse suivante : [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github.io/appels?).
 
 ## Projets
 
@@ -88,6 +88,8 @@ Le lien correspondant sera alors disponnible à l'adresse suivante : [https://ul
 <br>
 <br>
 <br>
+
+## Partenaires
 
 <div class="ulaval-cards">
     <figure>
