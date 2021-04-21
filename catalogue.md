@@ -5,8 +5,8 @@ hero_height: is-small
 show_sidebar: false
 ---
 
-## Logiciels libres développés par l'équipe de soutien au développement de logiciels de recherches
-<div class="ulaval-large-cards">
+## Logiciels développés par l'équipe
+<div class="ulaval-cards">
   <div class="card">
     <div class="card-content">
         <a href="https://github.com/ulaval-rs/"><h5>HOOPLAPy</h5></a>
@@ -34,8 +34,8 @@ show_sidebar: false
 </div>
 
 
-## Logiciels scientifiques libres 
-<div class="ulaval-large-cards">
+## Logiciels développés à l'Université Laval
+<div class="ulaval-cards">
   <div class="card">
     <div class="card-content">
         <a href="https://github.com/GRAAL-Research/poutyne"><h5>Poutyne</h5></a>
