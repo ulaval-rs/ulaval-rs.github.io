@@ -33,6 +33,8 @@ show_sidebar: false
   </div>
 </div>
 
+<br>
+<br>
 
 ## Logiciels développés à l'Université Laval
 <div class="ulaval-cards">
