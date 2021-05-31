@@ -10,11 +10,11 @@ show_sidebar: false
     - L’équipe est à la recherche d’idées de projets innovants consistant à développer un nouveau logiciel,
     intégrer une suite de logiciels ou modifier un logiciel existant afin de résoudre des problèmes limitant la portée de la recherche.
     Les idées de projets ayant des retombées sur plusieurs domaines de recherche seront jugées favorablement.
-    - Voici quelques exemples d’idées de projet :
-      - Intégration d’un logiciel de recherche existant dans une plateforme technologique de pointe (i.e: VALERIA, Calcul Canada, cloud commercial)
-      - Développement d’un pipeline d’intégration et déploiement continue (CI/CD) pour un logiciel de recherche
-      - Développement d’un portail web permettant de rendre un logiciel de recherche accessible à une large communauté
-      - Développement d’une nouvelle fonctionnalité dans une logiciel de recherche existant
+    - Exemples d’idées de projet retenus lors du premier appel à idées : 
+        - Développement d’un portail web pour récolter des données de science citoyenne 
+        - Développement d’un outil permettant corriger des données d’un spectromètre de masse 
+        - Développement d’un outil permettant d’insérer des résultats d’un logiciel d’optimisation dans un logiciel d’information géospatial 
+        - Traduction et implémentation d’un logiciel de simulation de cru des eaux en Python à partir de source en Matlab 
       {: style="margin-top: 0px; margin-bottom: 10px"}
 
 1. Est-il possible de faire financer mon équipe de recherche afin de développer un logiciel de recherche?

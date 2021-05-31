@@ -3,6 +3,8 @@
   dropdown:
     - name: Appel 1
       link: /appels/appel-1?
+    - name: Appel 2
+      link: /appels/appel-2?
 - name: Catalogue de logiciels
   link: /catalogue?
 - name: FAQ

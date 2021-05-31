@@ -23,3 +23,21 @@ show_sidebar: false
         <br>
     </div>
 </div>
+
+<br>
+
+<div class="card">
+    <div class="card-content" style="margin-bottom: 6em">
+        <div style="float: left">
+            <a href="/appels/appel-2?"><h5>Appel à idées 2</h5></a>
+            <p>
+                <b>Statut : En cours<br/> Date limite : 2 juillet 2021, 17:00 (HNE)</b>
+            </p>
+            <p>Publié le 2021-05-31</p>
+        </div>
+        <div style="float: right; margin-top: 2.5em">
+            <a href="/appels/appel-2?" class="button">Lien</a>
+        </div>
+        <br>
+    </div>
+</div>
