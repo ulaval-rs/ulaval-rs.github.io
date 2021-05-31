@@ -191,7 +191,7 @@ les critères suivants :
     - 15 pts - Oui, le groupe compte s'impliquer dans le développement logiciel du projet
 
 
-Pour toute question, contactez-nous à [logiciels-recherche-appel1@ulaval.ca](mailto:logiciels-recherche-appel1@ulaval.ca)
+Pour toute question, contactez-nous à [dev-logiciels-recherche@ulaval.ca](mailto:dev-logiciels-recherche@ulaval.ca)
 
 
 ## Dates importantes
