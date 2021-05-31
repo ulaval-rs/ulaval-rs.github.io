@@ -138,7 +138,7 @@ Le formulaire est composé des questions suivantes :
 
 13. Comment avez-vous appris l'existence de l'appel à idées de projet? 
 
-<a href="https://tinyurl.com/ulaval-rs-appel-2" class="button ulaval-btn-dark">Soumettre une idée</a>
+<a href="https://tinyurl.com/ulaval-rs-appel-2" class="button" style="background-color: #1c8fae; color: white; font-weight: bold">Soumettre une idée</a>
 
 Critères d'évaluations
 ----------------------
@@ -195,7 +195,7 @@ les critères suivants :
 
 Pour toute question, contactez-nous à [dev-logiciels-recherche@ulaval.ca](mailto:dev-logiciels-recherche@ulaval.ca)
 
-<a href="https://tinyurl.com/ulaval-rs-appel-2" class="button ulaval-btn-dark">Soumettre une idée</a>
+<a href="https://tinyurl.com/ulaval-rs-appel-2" class="button" style="background-color: #1c8fae; color: white; font-weight: bold">Soumettre une idée</a>
 
 ## Dates importantes
 
