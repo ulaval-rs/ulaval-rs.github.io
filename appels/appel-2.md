@@ -138,6 +138,8 @@ Le formulaire est composé des questions suivantes :
 
 13. Comment avez-vous appris l'existence de l'appel à idées de projet? 
 
+<a href="https://tinyurl.com/ulaval-rs-appel-2" class="button ulaval-btn-dark">Soumettre une idée</a>
+
 Critères d'évaluations
 ----------------------
 
@@ -193,12 +195,14 @@ les critères suivants :
 
 Pour toute question, contactez-nous à [dev-logiciels-recherche@ulaval.ca](mailto:dev-logiciels-recherche@ulaval.ca)
 
+<a href="https://tinyurl.com/ulaval-rs-appel-2" class="button ulaval-btn-dark">Soumettre une idée</a>
 
 ## Dates importantes
 
 - Date limite pour soumettre une idée de projet : 2 juillet 2021 à 17:00 (HNE)
 - Date prévue pour l'appel à idées 2 : 1er décembre 2021
 - Date de livraison au plus tard pour les propositions retenues de l'appel à idées 1 : 15 novembre 2021
+  
 
 
 ---
