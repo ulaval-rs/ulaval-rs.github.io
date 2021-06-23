@@ -200,8 +200,8 @@ Pour toute question, contactez-nous à [dev-logiciels-recherche@ulaval.ca](mailt
 ## Dates importantes
 
 - Date limite pour soumettre une idée de projet : 2 juillet 2021 à 17:00 (HNE)
-- Date prévue pour l'appel à idées 2 : 1er décembre 2021
-- Date de livraison au plus tard pour les propositions retenues de l'appel à idées 1 : 15 novembre 2021
+- Date de livraison au plus tard pour les propositions retenues de l'appel à idées 2 : 15 novembre 2021
+- Date prévue pour l'appel à idées 3 : 1er décembre 2021
   
 
 
