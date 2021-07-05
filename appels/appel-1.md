@@ -6,12 +6,10 @@ show_sidebar: false
 toc: true
 ---
 
-L'appel à idées 1 s'est terminé le 1er février 2021
-===================================================
----
-
 Appel à idées 1 -- Soutien au développement de logiciels de recherche
 =====================================================================
+
+### L'appel à idées s'est terminé le 1er février 2021
 
 Dans le cadre du programme Logiciels de recherche de CANARIE,
 l'Université Laval a obtenu un financement de 600,000$ pour créer un
