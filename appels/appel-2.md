@@ -6,6 +6,10 @@ show_sidebar: false
 toc: true
 ---
 
+L'appel à idées 2 s'est terminé le 2 juillet 2021
+===================================================
+---
+
 Appel à idées 2 -- Soutien au développement de logiciels de recherche
 =====================================================================
 

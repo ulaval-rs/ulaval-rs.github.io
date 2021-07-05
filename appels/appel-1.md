@@ -6,6 +6,10 @@ show_sidebar: false
 toc: true
 ---
 
+L'appel à idées 1 s'est terminé le 1er février 2021
+===================================================
+---
+
 Appel à idées 1 -- Soutien au développement de logiciels de recherche
 =====================================================================
 
