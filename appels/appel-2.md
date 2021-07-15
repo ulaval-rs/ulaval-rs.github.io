@@ -181,8 +181,8 @@ les critères suivants :
 
 7. Le logiciel réalisé sera utilisé par plusieurs domaines de recherche
     - 0 pt - Non, un seul domaine
-    - 5 pt - Oui, un autre domaine
-    - 10 pts - Oui, deux autres domaines ou plus
+    - 1 pt - Oui, un autre domaine
+    - 5 pts - Oui, deux autres domaines ou plus
 
 8. Le développement du logiciel peut se faire en collaboration avec un groupe externe à l'UL
     - 0 pt - Non
