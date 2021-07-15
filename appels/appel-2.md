@@ -170,8 +170,8 @@ les critères suivants :
     - 5 pts - Oui, le groupe a publié ses propres logiciels de recherche
 
 5. Le projet vise la réutilisation d'un logiciel, d'un service ou d'une plateforme existante qui est open-source ? Par exemple, les services et plateformes listés sur science.canarie.ca
-    - 0 pt - Non, il s'agit d'un logiciel propriétaire accepte que le code source du projet soit rendu disponible publiquement
-    - 1 pt - Non, mais le responsable
+    - 0 pt - Non, il s'agit d'un logiciel propriétaire 
+    - 1 pt - Non, mais le responsable accepte que le code source du projet soit rendu disponible publiquement
     - 5 pts - Oui
 
 6. Le logiciel réalisé sera réutilisable par d'autres groupes de recherche
@@ -181,8 +181,8 @@ les critères suivants :
 
 7. Le logiciel réalisé sera utilisé par plusieurs domaines de recherche
     - 0 pt - Non, un seul domaine
-    - 1 pt - Oui, un autre domaine
-    - 5 pts - Oui, deux autres domaines ou plus
+    - 5 pt - Oui, un autre domaine
+    - 10 pts - Oui, deux autres domaines ou plus
 
 8. Le développement du logiciel peut se faire en collaboration avec un groupe externe à l'UL
     - 0 pt - Non
