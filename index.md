@@ -70,21 +70,6 @@ Vous pouvez consulter les détails à l'adresse suivante : [https://ulaval-rs.gi
       Un outil facilitant l'interprétation des données résultantes d'analyses faites par un spectromètre de masse.
     </div>
   </div>
-  <div class="card">
-    <div class="card-content">
-      <a href="https://github.com/voyanttools/trombone"><h5>Trombone</h5></a>
-      Trombone est un logiciel d'analyse de corpus. Les textes analysés peuvent être de format XML, HTML, PDF,
-      texte libre, etc. Il permet l'obtention de différentes statistiques, telles que la fréquence
-      des termes, la lisibilité, etc.
-    </div>
-  </div>
-  <div class="card">
-    <div class="card-content">
-      <a href="https://github.com/gacou54/pyorthanc"><h5>PyOrthanc</h5></a>
-      PyOrthanc est une bibliothèque Python qui permet de manipuler le serveur d'images médicales 
-      <a href="https://www.orthanc-server.com/">Orthanc</a> via le langage Python.
-    </div>
-  </div>
 </div>
 
 <br>
