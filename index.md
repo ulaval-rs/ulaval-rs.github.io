@@ -13,33 +13,61 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
 
 <br>
 
-L'appel à idées 2 est actuellement en cours, et terminera le 2 juillet 2021.
+L'appel à idées 2 s'est terminé le 2 juillet 2021.
 Vous pouvez consulter les détails à l'adresse suivante : [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github.io/appels?).
 
 ## Projets
-
 <div class="ulaval-cards">
   <div class="card">
     <div class="card-content">
-        <a href="https://github.com/ulaval-rs/"><h5>HOOPLAPy</h5></a>
+        <a href="https://github.com/ulaval-rs/pytrombone"><h5>pytrombone</h5></a>
+        Une bibliothèque Python permettant de manipuler les fonctionnalités du logiciel 
+        <a href="https://github.com/voyanttools/trombone">Trombone</a> via le langage Python.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/peatland-time-series"><h5>Peatland Time Series</h5></a>
+        Une bibliothèque Python contenant des fonctions pour analyser la rétention d'eau dans 
+        une tourbe grâce à des données de séries temporelles de précipitations et de niveaux d'eau.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/peatland-dashboard"><h5>Peatland Dashboard</h5></a>
+        Un tableau de bord qui permet à un utilisateur d'exploiter les fonctionnalités de la bibliothèque
+        Python peatland-time-series via une interface graphique.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/micadoi"><h5>MicaDOI</h5></a>
+        MicaDOI permet l'extraction de métadonnées d'ensembles de données Mica et de générer 
+        un DOI par le biais de DataCite afin de rendre l'ensemble trouvable.
+    </div>
+  </div>   
+
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/HOOPLApy"><h5>HOOPLAPy</h5></a>
         HOOPLAPy est une implémentation en Python de la librairie HOOPLA, qui permet de simuler des inondations.
     </div>
   </div>
   <div class="card">
     <div class="card-content">
       <a href="https://github.com/ulaval-rs/"><h5>Crowd Science Framework</h5></a>
-      Un Framwork Web, basé sur le populaire framework Web Django, qui permet de rapidement concevoir un site web dédié à un projet de science citoyenne.
+      Un Framework Web, basé sur le populaire framework Web Django, qui permet de rapidement concevoir un site web dédié à un projet de science citoyenne.
     </div>
   </div>
   <div class="card">
     <div class="card-content">
-      <a href="https://github.com/ulaval-rs/"><h5>Othello</h5></a>
+      <a href="https://github.com/ulaval-rs/othello"><h5>Othello</h5></a>
       Un outil permettant de transformer des données résultantes du logiciel d'optimisation M-MACBETH afin qu'elles soient chargeables dans un système d'information géographique (GIS).
     </div>
   </div>
   <div class="card">
     <div class="card-content">
-      <a href="https://github.com/ulaval-rs/"><h5>SpectroMiner</h5></a>
+      <a href="https://github.com/ulaval-rs/spectrominer"><h5>SpectroMiner</h5></a>
       Un outil facilitant l'interprétation des données résultantes d'analyses faites par un spectromètre de masse.
     </div>
   </div>

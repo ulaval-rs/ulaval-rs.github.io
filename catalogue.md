@@ -9,6 +9,35 @@ show_sidebar: false
 <div class="ulaval-cards">
   <div class="card">
     <div class="card-content">
+        <a href="https://github.com/ulaval-rs/pytrombone"><h5>pytrombone</h5></a>
+        Une bibliothèque Python permettant de manipuler les fonctionnalités du logiciel 
+        <a href="https://github.com/voyanttools/trombone">Trombone</a> via le langage Python.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/peatland-time-series"><h5>Peatland Time Series</h5></a>
+        Une bibliothèque Python contenant des fonctions pour analyser la rétention d'eau dans 
+        une tourbe grâce à des données de séries temporelles de précipitations et de niveaux d'eau.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/peatland-dashboard"><h5>Peatland Dashboard</h5></a>
+        Un tableau de bord qui permet à un utilisateur d'exploiter les fonctionnalités de la bibliothèque
+        Python peatland-time-series via une interface graphique.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/ulaval-rs/micadoi"><h5>MicaDOI</h5></a>
+        MicaDOI permet l'extraction de métadonnées d'ensembles de données Mica et de générer 
+        un DOI par le biais de DataCite afin de rendre l'ensemble trouvable.
+    </div>
+  </div>   
+
+  <div class="card">
+    <div class="card-content">
         <a href="https://github.com/ulaval-rs/HOOPLApy"><h5>HOOPLAPy</h5></a>
         HOOPLAPy est une implémentation en Python de la librairie HOOPLA, qui permet de simuler des inondations.
     </div>
@@ -16,7 +45,7 @@ show_sidebar: false
   <div class="card">
     <div class="card-content">
       <a href="https://github.com/ulaval-rs/"><h5>Crowd Science Framework</h5></a>
-      Un Framwork Web, basé sur le populaire framework Web Django, qui permet de rapidement concevoir un site web dédié à un projet de science citoyenne.
+      Un Framework Web, basé sur le populaire framework Web Django, qui permet de rapidement concevoir un site web dédié à un projet de science citoyenne.
     </div>
   </div>
   <div class="card">
@@ -27,8 +56,30 @@ show_sidebar: false
   </div>
   <div class="card">
     <div class="card-content">
-      <a href="https://github.com/ulaval-rs/"><h5>SpectroMiner</h5></a>
+      <a href="https://github.com/ulaval-rs/spectrominer"><h5>SpectroMiner</h5></a>
       Un outil facilitant l'interprétation des données résultantes d'analyses faites par un spectromètre de masse.
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+## Logiciels auxquels l'équipe a contribué
+<div class="ulaval-cards">
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/voyanttools/trombone"><h5>Trombone</h5></a>
+      Trombone est un logiciel d'analyse de corpus. Les textes analysés peuvent être de format XML, HTML, PDF,
+      texte libre, etc. Il permet l'obtention de différentes statistiques, telles que la fréquence
+      des termes, la lisibilité, etc.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/gacou54/pyorthanc"><h5>PyOrthanc</h5></a>
+      PyOrthanc est une bibliothèque Python qui permet de manipuler le serveur d'images médicales 
+      <a href="https://www.orthanc-server.com/">Orthanc</a> via le langage Python.
     </div>
   </div>
 </div>
