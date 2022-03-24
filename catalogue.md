@@ -82,6 +82,12 @@ show_sidebar: false
       <a href="https://www.orthanc-server.com/">Orthanc</a> via le langage Python.
     </div>
   </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/ComputeCanada/magic_castle"><h5>Magic Castle</h5></a>
+      Modules Terraform pour répliquer un cluster Compute Canada dans le cloud.
+    </div>
+  </div>
 </div>
 
 <br>

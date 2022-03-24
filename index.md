@@ -45,8 +45,7 @@ Vous pouvez consulter les détails à l'adresse suivante : [https://ulaval-rs.gi
         MicaDOI permet l'extraction de métadonnées d'ensembles de données Mica et de générer 
         un DOI par le biais de DataCite afin de rendre l'ensemble trouvable.
     </div>
-  </div>   
-
+  </div>
   <div class="card">
     <div class="card-content">
         <a href="https://github.com/ulaval-rs/HOOPLApy"><h5>HOOPLAPy</h5></a>
@@ -69,6 +68,49 @@ Vous pouvez consulter les détails à l'adresse suivante : [https://ulaval-rs.gi
     <div class="card-content">
       <a href="https://github.com/ulaval-rs/spectrominer"><h5>SpectroMiner</h5></a>
       Un outil facilitant l'interprétation des données résultantes d'analyses faites par un spectromètre de masse.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/voyanttools/trombone"><h5>Trombone</h5></a>
+      Trombone est un logiciel d'analyse de corpus. Les textes analysés peuvent être de format XML, HTML, PDF,
+      texte libre, etc. Il permet l'obtention de différentes statistiques, telles que la fréquence
+      des termes, la lisibilité, etc.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/gacou54/pyorthanc"><h5>PyOrthanc</h5></a>
+      PyOrthanc est une bibliothèque Python qui permet de manipuler le serveur d'images médicales 
+      <a href="https://www.orthanc-server.com/">Orthanc</a> via le langage Python.
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+## Contributions
+<div class="ulaval-cards">
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/voyanttools/trombone"><h5>Trombone</h5></a>
+      Trombone est un logiciel d'analyse de corpus. Les textes analysés peuvent être de format XML, HTML, PDF,
+      texte libre, etc. Il permet l'obtention de différentes statistiques, telles que la fréquence
+      des termes, la lisibilité, etc.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/gacou54/pyorthanc"><h5>PyOrthanc</h5></a>
+      PyOrthanc est une bibliothèque Python qui permet de manipuler le serveur d'images médicales 
+      <a href="https://www.orthanc-server.com/">Orthanc</a> via le langage Python.
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-content">
+      <a href="https://github.com/ComputeCanada/magic_castle"><h5>Magic Castle</h5></a>
+      Modules Terraform pour répliquer un cluster Compute Canada dans le cloud.
     </div>
   </div>
 </div>
