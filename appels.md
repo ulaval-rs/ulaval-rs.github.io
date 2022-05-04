@@ -11,6 +11,24 @@ show_sidebar: false
 <div class="card">
     <div class="card-content" style="margin-bottom: 6em">
         <div style="float: left">
+            <a href="/appels/appel-3?"><h5>Appel à idées 3</h5></a>
+            <p>
+                <b>Statut : en cours<br/> Date limite : 20 mai 2022, 17:00 (HNE)</b>
+            </p>
+            <p>Publié le 2022-05-04</p>
+        </div>
+        <div style="float: right; margin-top: 2.5em">
+            <a href="/appels/appel-3?" class="button">Lien</a>
+        </div>
+        <br>
+    </div>
+</div>
+
+<br>
+
+<div class="card">
+    <div class="card-content" style="margin-bottom: 6em">
+        <div style="float: left">
             <a href="/appels/appel-2?"><h5>Appel à idées 2</h5></a>
             <p>
                 <b>Statut : terminé<br/> Date limite : 2 juillet 2021, 17:00 (HNE)</b>
