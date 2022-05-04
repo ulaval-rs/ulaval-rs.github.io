@@ -9,7 +9,7 @@ show_sidebar: false
 
 
 <div class="card">
-    <div class="card-content" style="margin-bottom: 6em">
+    <div class="card-content" style="margin-bottom: 6em; overflow: hidden">
         <div style="float: left">
             <a href="/appels/appel-3?"><h5>Appel à idées 3</h5></a>
             <p>
@@ -27,7 +27,7 @@ show_sidebar: false
 <br>
 
 <div class="card">
-    <div class="card-content" style="margin-bottom: 6em">
+    <div class="card-content" style="margin-bottom: 6em; overflow: hidden">
         <div style="float: left">
             <a href="/appels/appel-2?"><h5>Appel à idées 2</h5></a>
             <p>
@@ -45,7 +45,7 @@ show_sidebar: false
 <br>
 
 <div class="card">
-    <div class="card-content" style="margin-bottom: 6em">
+    <div class="card-content" style="margin-bottom: 6em; overflow: hidden">
         <div style="float: left">
             <a href="/appels/appel-1?"><h5>Appel à idées 1</h5></a>
             <p>
