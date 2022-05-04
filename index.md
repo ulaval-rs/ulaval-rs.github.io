@@ -13,7 +13,7 @@ ainsi que de l'ensemble de la communauté de recherche au Canada.
 
 <br>
 
-L'appel à idées 2 s'est terminé le 2 juillet 2021.
+L'appel à idées 3 se terminera le 20 mai 2022.
 Vous pouvez consulter les détails à l'adresse suivante : [https://ulaval-rs.github.io/appels/](https://ulaval-rs.github.io/appels?).
 
 ## Projets
