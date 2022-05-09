@@ -153,7 +153,7 @@ les critères suivants :
     - 15 pts - Partiellement
     - 30 pts - Complètement
 
-2. Le projet de développement logiciel peut être livré pour le 15 novembre 2021
+2. Le projet de développement logiciel peut être livré pour le 15 novembre 2022
     - 0 pt - Non
     - 5 pt - Oui, moyennant certaines modifications
     - 20 pts - Oui
