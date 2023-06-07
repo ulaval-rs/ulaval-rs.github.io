@@ -257,5 +257,11 @@ show_sidebar: false
         Plate-forme d'Analyses Génomiques de l'Université Laval.
     </div>
   </div>
+  <div class="card">
+    <div class="card-content">
+        <a href="https://github.com/clessn/locateip"><h5>locateip</h5></a>
+        Un package R pour localiser des addresses IP à l'aide de l'API ip-api.
+    </div>
+  </div>
 </div>
 
